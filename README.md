@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timfe
 - 👀 I’m interested in Neuroscience, Python, Web dev
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently learning Data Analysis with Python and Data Structures with JavaScript
 - 💞️ I’m looking to collaborate on everything code or neuroscience
 - 📫 How to reach me tim.fellerhoff@gmail.com, Twitter: @timbo_fe
 <!---
